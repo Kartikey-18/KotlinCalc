@@ -4,9 +4,6 @@
  * gradle plugin from the resource data it found. It
  * should not be modified by hand.
  */
-package androidx.versionedparcelable;
+package androidx.lifecycle.livedata.core
 
-public final class R {
-    private R() {}
-
-}
+object R

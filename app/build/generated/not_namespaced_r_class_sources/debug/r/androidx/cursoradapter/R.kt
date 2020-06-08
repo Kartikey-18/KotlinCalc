@@ -4,9 +4,6 @@
  * gradle plugin from the resource data it found. It
  * should not be modified by hand.
  */
-package androidx.arch.core;
+package androidx.cursoradapter
 
-public final class R {
-    private R() {}
-
-}
+object R

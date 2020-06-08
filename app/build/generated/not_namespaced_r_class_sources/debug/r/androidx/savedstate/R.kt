@@ -4,9 +4,6 @@
  * gradle plugin from the resource data it found. It
  * should not be modified by hand.
  */
-package androidx.lifecycle.livedata.core;
+package androidx.savedstate
 
-public final class R {
-    private R() {}
-
-}
+object R

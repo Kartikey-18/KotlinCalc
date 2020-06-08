@@ -4,9 +4,6 @@
  * gradle plugin from the resource data it found. It
  * should not be modified by hand.
  */
-package androidx.savedstate;
+package androidx.versionedparcelable
 
-public final class R {
-    private R() {}
-
-}
+object R
